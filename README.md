@@ -4,7 +4,7 @@
 
 Usage: Put the files in the folder you want to process and execute them via
 ```
-	python [removeLaTeXComments, cleanLaTeXFolder].py
+python [removeLaTeXComments, cleanLaTeXFolder].py
 ```
 *All Sub-Folders will be processed to, so be careful where you execute these scripts!*
 ## removeLaTeXComments.py
