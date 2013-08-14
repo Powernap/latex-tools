@@ -1,4 +1,7 @@
 # latex-tools
+
+**Credit:** http://realiseyourdreams.wordpress.com/latex-scripts/
+
 Usage: Put the files in the folder you want to process and execute them via
 	python [removeLaTeXComments, cleanLaTeXFolder].py
 

@@ -1,3 +1,4 @@
+# Credit: http://realiseyourdreams.wordpress.com/latex-scripts/
 #Script to clean up a directory tree!
 import os,subprocess
 
